@@ -1,0 +1,30 @@
+{
+  "name": "react-native-1d-barcodes",
+  "version": "0.1.0",
+  "description": "react-native 1D barcode generator",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcleigh/react-native-1d-barcodes.git"
+  },
+  "keywords": [
+    "react-native",
+    "barcode",
+    "upc",
+    "ean",
+    "1d"
+  ],
+  "author": "Jordan Cleigh <cleigh.jordan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcleigh/react-native-1d-barcodes/issues"
+  },
+  "homepage": "https://github.com/jcleigh/react-native-1d-barcodes#readme",
+  "dependencies": {
+    "create-react-class": "^15.6.0",
+    "prop-types": "^15.5.10"
+  },
+  "directories": {
+    "lib": "lib"
+  }
+}
