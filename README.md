@@ -1,4 +1,7 @@
 # react-native-1d-barcodes
+[![Download](https://img.shields.io/badge/Download-0.1.1-brightgreen.svg) ](https://www.npmjs.com/package/react-native-1d-barcodes)
+[![react-native-1d-barcodes releases](https://img.shields.io/badge/Release-0.1.1-blue.svg) ](https://www.github.com/jcleigh/react-native-1d-barcodes/releases)
+
 A React Native component to generate one-dimensional (1D) barcodes.
 
 #### Supported 1D barcode types:
