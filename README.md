@@ -6,6 +6,7 @@ A React Native component to generate one-dimensional (1D) barcodes.
 
 #### Supported 1D barcode types:
 - [x] UPC-A
+- [ ] UPC-E _(in progress)_
 - _additional types will be added in future minor versions_
 
 ## Installation
