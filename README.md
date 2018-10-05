@@ -53,7 +53,8 @@ prop      | type                 | default value
 `width`   | `number`             | `250`
 `bgColor` | `string` (CSS color) | `"#FFFFFF"`
 `fgColor` | `string` (CSS color) | `"#000000"`
-_Note: `height` is calculated based on provided `width`.
+
+_Note: `height` is calculated based on provided `width`._
 
 ## References
 - https://www.gs1.org/standards/barcodes/ean-upc
