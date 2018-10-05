@@ -40,10 +40,10 @@ export default class DisplayBarcode extends Component {
 ## Usage
 
 ##### UPC-A
-- Provide an 11-digit numeric string as `value` and the module will calculate the 
-check digit and render the UPC barcode in a WebView canvas. 
+- Provide an 11-digit numeric string as `value` and the module will calculate the
+check digit and render the UPC barcode in a WebView canvas.
 - Module will accept 12-digit strings if your data already includes a valid check digit.
-_(Note: check digit is not validated in this instance)_ 
+_(Note: check digit is not validated in this instance)_
 
 ##### Available Props:
 prop      | type                 | default value
@@ -53,6 +53,8 @@ prop      | type                 | default value
 `width`   | `number`             | `250`
 `bgColor` | `string` (CSS color) | `"#FFFFFF"`
 `fgColor` | `string` (CSS color) | `"#000000"`
+
+_Note: `height` is calculated based on provided `width`._
 
 ## References
 - https://www.gs1.org/standards/barcodes/ean-upc
